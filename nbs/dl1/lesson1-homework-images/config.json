@@ -1,0 +1,26 @@
+{
+    "Records": [
+        {
+            "keywords": "pininterest board",
+            "limit": 50,
+	    "size": "medium",
+            "print_urls": true,
+	    "prefix": "pininterest"
+        },
+        {
+            "keywords": "github board",
+            "limit": 50,
+            "size": "medium",
+            "print_urls": true,
+	    "prefix": "github"
+        },
+	{
+		"keywords": "facebook feed",
+		"limit": 50,
+		"size": "medium",
+		"print_urls": true,
+		"prefix": "facebook"
+	}
+
+    ]
+}

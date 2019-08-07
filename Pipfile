@@ -10,6 +10,7 @@ fastai = "*"
 pandas = "*"
 sklearn = "*"
 google-images-download = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.7"
